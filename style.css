@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, input, button {
+    background-color:  rgb(241 245 249);
+}
+
+.bg-white{
+    background-color:rgb(100 116 139) ;
+}
+
+h1 {
+    color: rgb(241 245 249);
+}
